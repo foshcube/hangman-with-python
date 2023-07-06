@@ -2,7 +2,7 @@
 This is a HANGMAN game made with Python but the person making it is a python novice (1 week)
 (I'm stupid)
 
-Website: https://damduchuy.github.io/hangman-with-python
+Website: https://damduchuy.github.io/mine/hangman-with-python
 
 **You need to download python and pip first!**
 
