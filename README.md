@@ -1,6 +1,6 @@
 # hangman-with-python
 This is a HANGMAN game made with Python
-(I'm stupid)
+
 
 Website: https://damduchuy.github.io/mine/hangman-with-python
 
